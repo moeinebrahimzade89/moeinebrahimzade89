@@ -42,9 +42,18 @@ Here are some of the web platforms I have developed and designed:
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=moeinebrahimzade89&show_icons=true&theme=radial" alt="Moein's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinebrahimzade89&layout=compact&theme=radial" alt="Top Languages" height="150" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=moeinebrahimzade89&show_icons=true&theme=algolia" alt="Moein's GitHub Stats" height="150" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moeinebrahimzade89&layout=compact&theme=algolia" alt="Top Languages" height="150" />
 </p>
+
+<p align="left">
+  <!-- Streak Stats (نشان‌دهنده تداوم فعالیت شما) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeinebrahimzade89&theme=algolia" alt="GitHub Streak" />
+</p>
+
 
 ---
 
