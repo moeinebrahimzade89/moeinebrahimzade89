@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there, I'm Moein Ebrahimzade! 👋
 
-<!--
-**moeinebrahimzade89/moeinebrahimzade89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/moeinebrahimzade89/moeinebrahimzade89/main/banner.png" alt="Moein's Banner" width="300" />
+</p>
 
-Here are some ideas to get you started:
+### 🎓 About Me
+I am a passionate computer science student currently studying **Network & Software Engineering** (11th grade) at the prestigious **Allameh Helli 7 High School (SAMPAD)**. I have a strong foundation in programming and design, and I am constantly learning new technologies to build impactful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently focused on improving my **Python** and software development skills.
+- 🌱 Exploring advanced concepts in computer science, web development, and AI.
+- ⚡ Fun fact: I love turning complex logic into clean, readable code.
+
+---
+
+### 🛠️ Skills & Technologies
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <!-- Design & Tools -->
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📁 Featured Projects
+
+Here are some of the web platforms I have developed and designed:
+
+*   **Oloomino (علومینو):** An educational platform built to facilitate learning and share scientific resources.
+*   **Technique Hamrah (تکنیک همراه):** A specialized website designed for tech-related tips, guides, and services.
+
+> *Note: I'm currently migrating my local projects and web development source codes to GitHub. Stay tuned for updates!*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=moeinebrahimzade89&show_icons=true&theme=radial" alt="Moein's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeinebrahimzade89&layout=compact&theme=radial" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+I'm always open to discussing new projects, creative ideas, or opportunities in software engineering.
+
+*   **LinkedIn:** [linkedin.com/in/moein-ebrahimzade](https://linkedin.com/in/moein-ebrahimzade)
+*   **Eitaa:** [eitaa.com/MoeinEbrahimzade](https://eitaa.com/MoeinEbrahimzade)
+
+---
+<p align="center">
+  <i>"Nothing is impossible. The word itself says, 'I'm possible.'"</i>
+</p>
