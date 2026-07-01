@@ -1,7 +1,7 @@
 # Hi there, I'm Moein Ebrahimzade! 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/moeinebrahimzade89/moeinebrahimzade89/main/banner.png" alt="Moein's Banner" width="300" />
+  <img src="https://github.com/moeinebrahimzade89/moeinebrahimzade89/blob/main/github%20.png" alt="Moein's Banner" width="300" />
 </p>
 
 ### 🎓 About Me
