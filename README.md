@@ -54,7 +54,6 @@ Here are some of the web platforms I have developed and designed:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeinebrahimzade89&theme=algolia" alt="GitHub Streak" />
 </p>
 
-
 ---
 
 ### 🤝 Connect with Me
