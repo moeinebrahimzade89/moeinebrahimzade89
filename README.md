@@ -1,4 +1,3 @@
-![Uploading گیت هاب بنر.png…]()
 # Hi there, I'm Moein Ebrahimzade! 👋
 
 <p align="center">
